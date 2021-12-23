@@ -1,0 +1,1 @@
+workspace:FindFirstChild('Structure').KillPart.KillPart:Destroy()
